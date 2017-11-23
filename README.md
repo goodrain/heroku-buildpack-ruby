@@ -1,7 +1,7 @@
 Heroku buildpack for Ruby
 ======================
 
-云帮 Ruby 语言的源码构建核心部分是基于[Heroku buildpack for java](https://github.com/heroku/heroku-buildpack-ruby) 来实现的。
+云帮 Ruby 语言源码构建的核心部分是基于[Heroku buildpack for ruby](https://github.com/heroku/heroku-buildpack-ruby) 来实现的。
 
 ## 工作原理
 
@@ -64,4 +64,4 @@ ruby ENV['CUSTOM_RUBY_VERSION'] || '2.0.0'
 
 ## 授权
 
-根据 MIT 授权证获得许可。 请参阅LICENSE文件
+根据 MIT 授权获得许可。 请参阅LICENSE文件
